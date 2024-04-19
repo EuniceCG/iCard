@@ -56,7 +56,7 @@ body {
   top: -250px;
   left: -100px;
   border-radius: 150px;
-  background: #ffd600;
+  background: rgb(44, 107, 241);
   animation: rotate 30s linear infinite;
 }
 .wave-card-shape:nth-child(1) {
